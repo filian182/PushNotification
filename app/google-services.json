@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "171724810964",
+    "firebase_url": "https://android-pushnotification-f38ef.firebaseio.com",
+    "project_id": "android-pushnotification-f38ef",
+    "storage_bucket": "android-pushnotification-f38ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171724810964:android:7e87eaf223147f1f",
+        "android_client_info": {
+          "package_name": "com.plankton.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171724810964-b1628lu9a86q8cv7o7vbev4tu10ppov6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhympR_ChKggh9hM2BMwwkjqWVqVUsVNw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
